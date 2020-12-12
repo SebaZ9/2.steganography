@@ -1,2 +1,2 @@
-# 2.steganography
+# Steganography
 Coursework for a Steganography System
